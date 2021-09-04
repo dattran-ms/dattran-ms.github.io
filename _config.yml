@@ -1,8 +1,8 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
+name: "DAT TRAN (Senior Cloud Engineer)"
+title: "dattran-ms"
+description: "Cloud techincal Blog: Azure (App modernization, AKS, Azure Sentinel, AVD), AWS,..."
+logo: 'assets/images/muhammadarifianto210600009.jpeg'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
@@ -30,6 +30,12 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+
+# Social
+social:
+  email: mailto:ttdat194@gmail.com
+  github: https://github.com/dattranms
+  facebook: https://www.facebook.com/tuandat.libra
 
 # Plugins
 plugins:
