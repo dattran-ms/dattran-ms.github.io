@@ -10,7 +10,7 @@ toc: true
 ---
 Azure Logic Apps are Enterprise Integration Service, which means their main purpose is orchestration, integration and scheduling of tasks in a simple way. With easy to use user interface, no coding design and powerful extensibility you can easily integrate services in minutes.
 
-In this video I will cover basics of Logic Apps and show couple of demos.
+In this tutorial. I will cover basics of Logic Apps and show couple of demos.
 ![all-trigger]({{ site.baseurl }}/assets/images/az-basic-logic-app/az-basic-logic-app-1.png)
 
 <br>
