@@ -15,7 +15,7 @@ In this video I will cover basics of Logic Apps and show couple of demos.
 
 <br>
 ## Web Trigger
-![web-trigger1]({{ site.baseurl }}/assets/images/az-basic-logic-app/az-basic-logic-app-1.png)
+![web-trigger1]({{ site.baseurl }}/assets/images/az-basic-logic-app/az-basic-logic-app-1-1.png)
 1. Create new Logic App service
 ![web-trigger2]({{ site.baseurl }}/assets/images/az-basic-logic-app/az-basic-logic-app-2.png)
 2. Full fill required information
